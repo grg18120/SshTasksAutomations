@@ -7,14 +7,14 @@ It streamlines routine administrative tasks, reducing manual effort and ensuring
 ### ⚙️ SSH Automation Jobs
 - 🔑 Change user password
 - ⏳ Refresh password last-updated date
-- Initialization **BOLD** and `HIGHLIGHT`.
+
 
 ---
 
 ### 📁 Setup Instructions
 1. Install dependencies from `requirements.txt` 
-2. Update configuration in `SSHTASKAUTOMATION/SshTaskAutomations/config.py`
-3. Run the main file: `SSHTASKAUTOMATION/SshTasksAuto.py`
+2. Update configuration in `SshTaskAutomations/config.py`
+3. Run the main file: `SshTasksAuto.py`
 
 ---
 
